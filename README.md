@@ -1,2 +1,4 @@
 # FoodSurveyAnanlysis
-Analysis the raw data captured through a survey for the most frequent food items consumed during Covid
+Analysis the raw data captured through a survey for the most frequent food items consumed during Covid19
+
+## Data Processing
